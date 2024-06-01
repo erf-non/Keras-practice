@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="dog" type="dog.py" name="image_classification_node" output="screen" />
+</launch>

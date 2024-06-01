@@ -1,0 +1,8 @@
+<depend>rospy</depend>
+<depend>std_msgs</depend>
+<depend>sensor_msgs</depend>
+<depend>cv_bridge</depend>
+<depend>image_transport</depend>
+<depend>tf</depend>
+<depend>tensorflow</depend>
+<depend>opencv3</depend>
